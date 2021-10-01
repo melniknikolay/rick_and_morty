@@ -47,6 +47,8 @@ dependencies:
   # Local cache
   shared_preferences: ^2.0.8
 
+  flutter_bloc: ^7.3.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
