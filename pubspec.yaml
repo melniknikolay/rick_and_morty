@@ -47,7 +47,11 @@ dependencies:
   # Local cache
   shared_preferences: ^2.0.8
 
+  # Bloc / Cibit
   flutter_bloc: ^7.3.0
+
+  # Dependency Injection
+  get_it: ^7.2.0
 
 dev_dependencies:
   flutter_test:
