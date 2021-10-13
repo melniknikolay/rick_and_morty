@@ -1,6 +1,6 @@
 # rick_and_morty
 
-A new Flutter project.
+Implemented according to the principles of clean architecture 
 
 ## Getting Started
 
